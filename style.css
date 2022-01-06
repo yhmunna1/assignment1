@@ -120,6 +120,37 @@ font-weight: 700;
     padding: 8%;
     align-items: center;
 }
+.service{
+    text-align: center;
+    margin-bottom: -50px;
+}
+.service h1{
+    margin-bottom: -3%;
+}
+.icon2{
+    width: 20%;
+}
+.illustration{
+    background-color: #FFF4D6;
+    border-radius: 25px;
+    padding: 1%;
+    width: 25%;
+    margin: 2%;
+}
+.ui-ux{
+    background-color: #EDF5F6;
+    border-radius: 25px;
+    padding: 1%;
+    width: 25%;
+    margin: 2%;
+}
+.deve{
+    background-color: #FFEEEE;
+    border-radius: 25px;
+    padding: 1%;
+    width: 25%;
+    margin: 2%;
+}
 
 
 footer h1{
